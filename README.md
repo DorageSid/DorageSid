@@ -1,4 +1,4 @@
-![logo](https://github.com/DorageSid/DorageSid/blob/main/background.png)
+![logo](https://github.com/DorageSid/DorageSid/blob/main/bg.png)
 <h1 align="center">Hi 👋, I'm Siddhi Dorage</h1>
 <h3 align="center">Passionate Entry-Level Software Developer Seeking Exciting Opportunities</h3>
 
